@@ -8,19 +8,19 @@
 }
 
 .ds4.white .trigger {
-    background-image: url(ps4-white-assets/triggers.svgz);
+    background-image: url(triggers.png);
 }
 
 .ds4.white .bumper {
-    background-image: url(ps4-white-assets/bumper.svgz);
+    background-image: url(bumper.png);
 }
 
 .ds4.white .touchpad.pressed {
-    background-image: url(ps4-white-assets/touchpad.svgz);
+    background-image: url(touchpad.png);
 }
 
 .ds4.white .back, .ds4 .start {
-    background-image: url(ps4-white-assets/start.svgz);
+    background-image: url(start.png);
 }
 
 .ds4.white .button {
